@@ -1,5 +1,5 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);每天开心哦!&center=true&size=27"> </a> </h1>
-<a href="https://github.com/HIM198/computer-vision-in-action">
+<a href="https://github.com/drda-x/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
@@ -15,7 +15,7 @@
   1. empty
   2. empty
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/drda-x/drda-x/issues).
  
 ---
 </details>
@@ -28,10 +28,10 @@
 <br>
  
 <p align="center">
-  <a href="https://github.com/HIM198" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
+  <a href="https://github.com/drda-x" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="drda-x's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="drda-x's Stats" >
     -->
   </a>
 </p>
@@ -61,46 +61,27 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/drda-x">
     <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/drda-x">
     <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198?tab=repositories">
+  <a href="https://github.com/drda-x?tab=repositories">
     <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/HIM198">
+  <a href="https://gist.github.com/drda-x">
     <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/drda-x">
     <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
 <h2></h2>
  
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, 和 do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
  
-### 🧠 我的code
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:brain -->
-
-<!-- END_SECTION:brain -->
- 
-</td></tr>
- 
-<tr><td>
- 
-### 🤾‍♂️ 兴趣
- 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
- 
-<!-- START_SECTION:douban -->
- 
-<!-- END_SECTION:douban -->
  
 </td></tr>
  
