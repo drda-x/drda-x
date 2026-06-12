@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);每天开心哦!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/drda-x/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=drda-x&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
 ## Hi, 👋  I'm <a href="https://github.com/drda-x/">drda(加辣)</a>
@@ -29,9 +29,9 @@
  
 <p align="center">
   <a href="https://github.com/drda-x" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="drda-x's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=drda-x&title_color=333&text_color=777" alt="drda-x's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="drda-x's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=drda-x&hide=issues&title_color=333&text_color=777" alt="drda-x's Stats" >
     -->
   </a>
 </p>
@@ -42,19 +42,15 @@
   </a>
   &emsp;
  
-  <a href="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
+  <a href="https://space.bilibili.com" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
-  </a>
-  &emsp;
-      <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
+      <a href="https://blog.csdn.net" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
-     <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
+     <a href="https://www.zhihu.com" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
   &emsp;
@@ -62,19 +58,19 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/drda-x">
-    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/drda-x/drda-x?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/drda-x">
-    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/years/drda-x?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/drda-x?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/repos/drda-x?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/drda-x">
-    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/gists/drda-x?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/drda-x">
-    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/commits/monthly/drda-x?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
